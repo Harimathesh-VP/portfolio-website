@@ -1,2 +1,3 @@
-# portfolio-website
-A clean and responsive personal portfolio built using HTML, CSS, and JavaScript. Showcases projects, skills, and achievements with a modern, minimal design. Includes smooth animations, interactive UI elements, and mobile-friendly layouts. Features dedicated sections for About, Skills, Projects, and Contact. P
+A simple and responsive portfolio website built using HTML, CSS, and JavaScript.
+Showcases projects, skills, and contact details in a clean, modern layout.
+Includes smooth animations, mobile-friendly design, and customizable components.
